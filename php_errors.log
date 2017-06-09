@@ -1,0 +1,28 @@
+[20-Jul-2016 05:27:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'c9_jiseongoh'@'localhost' (using password: NO) in /home/ubuntu/workspace/0720/products.php on line 4
+[20-Jul-2016 05:27:20 UTC] PHP Stack trace:
+[20-Jul-2016 05:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[20-Jul-2016 05:27:20 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/0720/products.php:4
+[20-Jul-2016 05:27:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/0720/products.php on line 11
+[20-Jul-2016 05:27:20 UTC] PHP Stack trace:
+[20-Jul-2016 05:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[20-Jul-2016 05:29:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'c9_jiseongoh'@'localhost' (using password: NO) in /home/ubuntu/workspace/0720/products.php on line 4
+[20-Jul-2016 05:29:24 UTC] PHP Stack trace:
+[20-Jul-2016 05:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[20-Jul-2016 05:29:24 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/0720/products.php:4
+[20-Jul-2016 05:29:24 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/0720/products.php on line 11
+[20-Jul-2016 05:29:24 UTC] PHP Stack trace:
+[20-Jul-2016 05:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[20-Jul-2016 05:30:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'c9_jiseongoh'@'localhost' (using password: NO) in /home/ubuntu/workspace/0720/products.php on line 4
+[20-Jul-2016 05:30:15 UTC] PHP Stack trace:
+[20-Jul-2016 05:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[20-Jul-2016 05:30:15 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/0720/products.php:4
+[20-Jul-2016 05:30:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/0720/products.php on line 11
+[20-Jul-2016 05:30:15 UTC] PHP Stack trace:
+[20-Jul-2016 05:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[21-Jul-2016 23:22:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'c9_jiseongoh'@'localhost' (using password: NO) in /home/ubuntu/workspace/0720/products.php on line 4
+[21-Jul-2016 23:22:39 UTC] PHP Stack trace:
+[21-Jul-2016 23:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0
+[21-Jul-2016 23:22:39 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/0720/products.php:4
+[21-Jul-2016 23:22:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/0720/products.php on line 11
+[21-Jul-2016 23:22:39 UTC] PHP Stack trace:
+[21-Jul-2016 23:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/0720/products.php:0

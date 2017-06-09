@@ -1,0 +1,51 @@
+DAILY WORK
+  1. table.sql 의 상품 데이터 insert 하기 (지성)
+
+
+
+TODO LIST - 지성
+  * 로그아웃 기능 연결 (완료)
+  * register 기능 동작하는지 확인 (완료)
+  * register에 parsely validation 추가 (완료)
+2016.09.12
+  * 상품리스트 - 카테고리 체크박스로 변경 (완료)
+2016.09.13
+  * 상품리스트 화면 새 디자인으로 구현 (완료)
+  * register 화면 회원 가입 후 바로 로그인 되게 수정 (완료)
+2016.09.14
+  * 상품 디테일 화면 구현 (완료)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      `````               `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               `                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2016.09.17
+  * 카트에 상품 추가 (완료)
+  * top 쇼핑카트를 ajax로 리플래쉬 되게 해야함 (완료)
+2016.09.19
+  * 카트에서 상품을 지웠을 때(X 클릭시) 디비에서도 지워지게 수정 (완료)
+  * show offer list in index page (complete)
+2016.09.20
+  * Checkout 버튼 구현 (test needed)
+    - insert product_order and product_order_detail table
+    - update sold_count and stock of products which have been sold.
+    - delete cart data
+2016.09.30
+2016.10.03
+  * modify link address on login button on top (complete)
+  * Checkout 버튼 구현 (complete)
+    - insert product_order and product_order_detail table
+    - update sold_count and stock of products which have been sold.
+    - delete cart data
+  * password logic should be changed to use password hash ( signup_controller.php line 52 ) (complete)
+
+2016.10.04
+  * create a page that result of checkout (complete)
+  * search 기능 연결
+  * new icon
+
+
+
+TODO LIST - 지영
+
+
+
+
+
+
+
